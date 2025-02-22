@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetGanteppanavar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats">
   <br>
-  <img src="https://i.imgur.com/3Z1JH6j.png" width="300">
+  
 </p>
 
 ---
