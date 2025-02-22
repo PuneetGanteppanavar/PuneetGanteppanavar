@@ -1,4 +1,4 @@
-# 👋 Hi, I am Puneet!  
+<h1 align="center"> Hi,👋 I am Puneet!</h1>
 
 - 📊 I’m currently learning **Data Analytics**.  
 - 📡 Studying **Electronics & Communication Engineering (EC)**.  
@@ -11,10 +11,25 @@
 
 ---
 
-## 📊 GitHub Streak Stats  
+## 📈 Profile Stats  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PuneetGanteppanavar&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/PuneetGanteppanavar?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/PuneetGanteppanavar?label=Stars&style=social" alt="GitHub Stars">
+  <a href="your-sponsor-url">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red" alt="Sponsor">
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetGanteppanavar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://i.imgur.com/3Z1JH6j.png" width="300">
 </p>
 
 ---
@@ -23,33 +38,44 @@
 
 ### **Languages**  
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
 </p>
 
 ### **Data Analytics Tools**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau">
+  <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP">
 </p>
 
 ---
 
-## 📈 Profile Stats  
+## ⚡ EDA (Electronic Design Automation) Tools  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Xilinx_Inc._logo.svg" width="60" height="60" alt="Xilinx">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matlab_Logo.png" width="60" height="60" alt="MATLAB">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Simulink_Logo.png" width="60" height="60" alt="Simulink">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Keil_Logo.png" width="60" height="60" alt="Keil">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PuneetGanteppanavar&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/PuneetGanteppanavar?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/PuneetGanteppanavar?label=Stars&style=social)  
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](your-sponsor-url)  
+---
+
+## 🔧 Embedded Systems & Hardware  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Raspberry_Pi_Logo.svg" width="60" height="60" alt="Raspberry Pi">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Xilinx_FPGA.png" width="60" height="60" alt="FPGA Board">
+</p>
 
 ---
 
 ## 📢 Let's Connect!  
-💌 Feel free to **email me** at **puneetganteppanavar@gmail.com** for collaborations or questions! 🚀  
+💌 Feel free to **email me** at **puneetganteppanavar@gmail.com** for collaborations or questions! 🚀
+
