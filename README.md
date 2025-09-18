@@ -1,6 +1,6 @@
 <h1 align="center"> Hi,👋 I am Puneet!</h1>
 
-- 📊 I’m currently learning **Data Analytics**.  
+- 📊 I’m currently learning **Web Dvelopment**.  
 - 📡 Studying **Electronics & Communication Engineering (EC)**.  
 - 💻 Passionate about **Programming, Electronics, and Data Analysis**.  
 - 📂 Check out my **[Resume](https://drive.google.com/file/d/1wUkR8p-6vwcPkxGPxruiceJqVbhJRy-H/view?usp=sharing)**.  
