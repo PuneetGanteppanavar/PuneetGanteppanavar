@@ -3,7 +3,7 @@
 - 📊 I’m currently learning **Web Dvelopment**.  
 - 📡 Studying **Electronics & Communication Engineering (EC)**.  
 - 💻 Passionate about **Programming, Electronics, and Data Analysis**.  
-- 📂 Check out my **[Resume](https://drive.google.com/file/d/1wUkR8p-6vwcPkxGPxruiceJqVbhJRy-H/view?usp=sharing)**.  
+  
 - 🏗️ All my projects are available on **[GitHub](https://github.com/PuneetGanteppanavar)**.  
 - 💬 Ask me about **Electronics, Programming, and web development ,Automation**.  
 - 📩 Reach me at **puneetganteppanavar@gmail.com**.  
